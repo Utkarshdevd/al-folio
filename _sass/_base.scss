@@ -264,7 +264,7 @@ footer.sticky-bottom {
 
 .projects {
   .grid-item {
-    width: 250px;
+    width: 550px;
     margin-bottom: 10px;
     a {
       color: black;
@@ -279,11 +279,38 @@ footer.sticky-bottom {
   }
 }
 
+.newprojects {
+  .grid-item {
+    width: 550px;
+    margin-bottom: 10px;
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .card img {
+    width: 100%;
+  }
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto
+}
 
 // Publications
 
 .publications {
   margin-top: 2rem;
+  .more{
+    background-color: white;
+    border-color: $purple-color;
+    border: 1px solid  $purple-color;
+    color: $purple-color;
+  }
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -412,4 +439,18 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+.card-title{
+  color: $purple-color
+}
+
+h2.purples{
+  color: $purple-color;
+}
+
+.post-title{
+  color: $purple-color;
+  font-weight: bold;
 }

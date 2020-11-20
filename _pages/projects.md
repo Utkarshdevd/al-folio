@@ -1,27 +1,29 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Publications
+permalink: /publications
+description: Here are the papers I have published or are under review.
 nav: true
 ---
 
-<div class="projects grid">
+<div class="newprojects container">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
-  <div class="grid-item">
-    {% if project.redirect %}
+  
+  <div class="row mb-3">
+    <!-- {% if project.redirect %}
     <a href="{{ project.redirect }}" target="_blank">
     {% else %}
     <a href="{{ project.url | relative_url }}">
-    {% endif %}
-      <div class="card hoverable">
-        {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
-        {% endif %}
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+    {% endif %} -->
+      {% if project.img %}
+      <div class="col-sm-4">
+          <img class="img-fluid" src="{{ project.img | relative_url }}" alt="project thumbnail">
+      </div>
+      {% endif %}
+      <div class="col-sm-8">
+          <h3 class="card-title">{{ project.title }}</h3>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
@@ -37,10 +39,9 @@ nav: true
               {% endif %}
             </div>
             {% endif %}
-          </div>
         </div>
       </div>
-    </a>
+    <!-- </a> -->
   </div>
 {% endfor %}
 
