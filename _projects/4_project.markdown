@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Visual Math&#58; An automated visualization system for understanding math word problems
+description: <b>Dwivedi, U.</b>, Dey, P., Rajput, N.,Varkey B. Visual Math&#58; An automated visualization system for understanding math word problems.<i>International Conference on Intelligent User Interfaces (IUI) 2017.</i>
+img: /assets/img/visualmath.png
+pdf: https://drive.google.com/open?id=0B4aeN-cePkCBN2wteFYtZ29HUWM
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.

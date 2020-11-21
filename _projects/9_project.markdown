@@ -1,10 +1,10 @@
 ---
 layout: page
-title: OptiDwell&#58; Intelligent Adjustment of Dwell Click Time
-description: Nayyar A., <b>Dwivedi, U.</b>, Ahuja, K., Rajput, N., Nagar, S. and Dey, K. OptiDwell&#58; Intelligent Adjustment of Dwell Click Time. <i>International Conference on Intelligent User Interfaces (IUI) 2017.</i>
-img: /assets/img/optidwell.png
-importance: 3
-pdf: https://drive.google.com/open?id=0B4aeN-cePkCBaVJPS1lERi1UZ0E
+title: Using a Common Sense Knowledge Base to Auto Generate Multi-Dimensional Vocabulary Assessments
+description: Sharma Mittal, R., Nagar, S., Sharma, M., <b>Dwivedi, U.</b>, Dey, P., & Kokku, R. (2018). Using a Common Sense Knowledge Base to Auto Generate Multi-Dimensional Vocabulary Assessments. <i>International Educational Data Mining Society.</i>
+img: /assets/img/vocab.png
+importance: 5
+pdf: https://files.eric.ed.gov/fulltext/ED593200.pdf
 ---
 
 Every project has a beautiful feature showcase page.

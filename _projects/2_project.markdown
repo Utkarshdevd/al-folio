@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title: Enabling Compliance of Environmental Conditions
+description: <b>Dwivedi, U.</b> and Dasgupta, A. <i>Enabling Compliance of Environmental Conditions.</i> Computing for Development (ACM DEV) 2015. 
+img: /assets/img/compliance.png
+pdf: https://drive.google.com/open?id=0B4aeN-cePkCBc1ZfSjMtRHl2T0k
+importance: 9
 ---
 
 Every project has a beautiful feature showcase page.

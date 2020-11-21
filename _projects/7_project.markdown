@@ -1,9 +1,9 @@
 ---
 layout: page
-title: On optimizing human-machine task assignments
-description: Veit, A et al. On optimizing human-machine task assignments. <i> AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 2015.</i> 
-img: /assets/img/machinetask.png
-importance: 4
+title: IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets
+description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., and Chanduka, R. IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets. <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '20).</i>
+img: /assets/img/incluset.png
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.

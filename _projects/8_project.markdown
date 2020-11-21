@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Enabling Compliance of Environmental Conditions
-description: <b>Dwivedi, U.</b> and Dasgupta, A. Enabling Compliance of Environmental Conditions. Computing for Development (ACM DEV) 2015. 
-img: /assets/img/compliance.png
-importance: 4
+title: Data Sharing in Wellness, Accessibility, and Aging
+description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., Kamibuko, R. and Chanduka, R. Data Sharing in Wellness, Accessibility, and Aging. <i>NeurIPS 2020 Workshop on Dataset Curation and Security (NeurIPS 2020).</i>
+img: /assets/img/dataset_examples.png
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

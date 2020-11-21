@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 1
+title: On optimizing human-machine task assignments
+description: Veit, A et al. On optimizing human-machine task assignments. <i>AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 2015.</i>
+img: /assets/img/machinetask.png
+importance: 8
+pdf: https://drive.google.com/open?id=0B4aeN-cePkCBY216SkRJZGYxdmM
 ---
 
 Every project has a beautiful feature showcase page.

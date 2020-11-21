@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Note Code&#58; A Tangible Music Programming Puzzle Tool
+description: Kumar, V., Dargan, T., <b>Dwivedi, U.</b> and Vijay, P. <i>Note Code&#58; A Tangible Music Programming Puzzle Tool.</i> International Conference on <i>Tangible, Embedded and Embodied Interaction (TEI) 2015.</i>
+img: /assets/img/notecode.png
+pdf: https://drive.google.com/open?id=0B4aeN-cePkCBWDJNMVl3bDBEcU0
 importance: 3
 ---
 

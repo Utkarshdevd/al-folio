@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
+title: EyamKayo&#58; Interactive Gaze and Facial Expression Captcha
+description: <b>Dwivedi, U.</b>, Ahuja, K., Islam, R., Bhabhuria F., Nagar, S. and Dey, K. EyamKayo&#58; Interactive Gaze and Facial Expression Captcha. <i>International Conference on Intelligent User Interfaces (IUI) 2017.</i>
+img: /assets/img/eyamkayo.png
+importance: 5
+pdf: https://drive.google.com/open?id=0B4aeN-cePkCBbnpJUFk0bFBNM3c
 ---
 
 Every project has a beautiful feature showcase page.
