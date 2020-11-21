@@ -22,7 +22,7 @@ nav: true
           <h5 class="card-text">{{ patent.authors }}</h5>
           <p class="card-text">{{ patent.description }}</p>
           <div class="row ml-1 mr-1 p-0">
-            <a href="{{ patent.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank">{{ patent.patentid }}</a>
+            <a href="{{ patent.link }}" class="btn btn-sm z-depth-0 m-0" role="button" target="_blank">{{ patent.patentid }}</a>
         </div>
       </div>
     <!-- </a> -->
