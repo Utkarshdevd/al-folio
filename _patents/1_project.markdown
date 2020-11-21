@@ -1,10 +1,12 @@
 ---
 layout: page
-title: IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., and Chanduka, R. IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets. <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '20).</i>
-img: /assets/img/incluset.png
-importance: 1
-type: Poster
+title: Directional Lesson Notes generator (US10665119B2)
+authors: Roman Vaculin, <b>Utkarsh Dwivedi</b>, Karan Ahuja, Seema Nagar, Kuntal Dey
+description: Techniques are provided for creating presentation notes based upon gaze tracking information associated with observers of a presentation. This patent is filed in US, Japan, United Kingdom, France, Germany and China.
+img: /assets/img/US10665119-20200526-D00010.png
+importance: 8
+link: https://patents.google.com/patent/US10665119B2/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+patentid: US10665119B2
 ---
 
 Every project has a beautiful feature showcase page.

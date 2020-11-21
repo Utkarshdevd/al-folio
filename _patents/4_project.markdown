@@ -1,10 +1,12 @@
 ---
 layout: page
-title: IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., and Chanduka, R. IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets. <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '20).</i>
-img: /assets/img/incluset.png
-importance: 1
-type: Poster
+title: System, method and computer program product for stateful instruction-based dynamic man-machine interactions for humanness validation (US10747859B2)
+authors: Karan Ahuja, Kuntal Dey, <b>Utkarsh Dwivedi</b>, Seema Nagar, Roman Vaculin
+description: The data processing system monitors student gaze of the digital teaching content during a class and can cognitively skip some of the digital teaching content during the class based on the monitored student gaze and content heuristic(s).
+img: /assets/img/US10747859-20200818-D00004.png
+importance: 8
+link: https://patents.google.com/patent/US10747859B2/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+patentid: US10747859B2
 ---
 
 Every project has a beautiful feature showcase page.

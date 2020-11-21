@@ -4,6 +4,7 @@ title: Using a Common Sense Knowledge Base to Auto Generate Multi-Dimensional Vo
 description: Sharma Mittal, R., Nagar, S., Sharma, M., <b>Dwivedi, U.</b>, Dey, P., & Kokku, R. (2018). Using a Common Sense Knowledge Base to Auto Generate Multi-Dimensional Vocabulary Assessments. <i>International Educational Data Mining Society.</i>
 img: /assets/img/vocab.png
 importance: 5
+type: Full Paper
 pdf: https://files.eric.ed.gov/fulltext/ED593200.pdf
 ---
 

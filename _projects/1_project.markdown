@@ -4,6 +4,7 @@ title: On optimizing human-machine task assignments
 description: Veit, A et al. On optimizing human-machine task assignments. <i>AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 2015.</i>
 img: /assets/img/machinetask.png
 importance: 8
+type: Short Paper
 pdf: https://drive.google.com/open?id=0B4aeN-cePkCBY216SkRJZGYxdmM
 ---
 

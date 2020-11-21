@@ -1,10 +1,12 @@
 ---
 layout: page
-title: IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., and Chanduka, R. IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets. <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '20).</i>
-img: /assets/img/incluset.png
-importance: 1
-type: Poster
+title: Dynamicaly updating digital visual content via aggregated feedback (US20200226941A1)
+authors: Sreekanth L. Kakaraparthy, Vijay A. Kumar, Danish Contractor, Seema Nagar, Kuntal Dey, <b>Utkarsh Dwivedi</b>
+description: The data processing system monitors student gaze of the digital teaching content during a class and can cognitively skip some of the digital teaching content during the class based on the monitored student gaze and content heuristic(s).
+img: /assets/img/US20200226941A1-20200716-D00003.png
+importance: 8
+link: https://patents.google.com/patent/US20200226941A1/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+patentid: US20200226941A1
 ---
 
 Every project has a beautiful feature showcase page.

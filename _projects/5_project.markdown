@@ -4,6 +4,7 @@ title: EyamKayo&#58; Interactive Gaze and Facial Expression Captcha
 description: <b>Dwivedi, U.</b>, Ahuja, K., Islam, R., Bhabhuria F., Nagar, S. and Dey, K. EyamKayo&#58; Interactive Gaze and Facial Expression Captcha. <i>International Conference on Intelligent User Interfaces (IUI) 2017.</i>
 img: /assets/img/eyamkayo.png
 importance: 5
+type: Poster
 pdf: https://drive.google.com/open?id=0B4aeN-cePkCBbnpJUFk0bFBNM3c
 ---
 

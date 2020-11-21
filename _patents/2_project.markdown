@@ -1,10 +1,12 @@
 ---
 layout: page
-title: IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., and Chanduka, R. IncluSet&#58; A Data Surfacing Repository for Accessibility Datasets. <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '20).</i>
-img: /assets/img/incluset.png
-importance: 1
-type: Poster
+title: Facilitating vocabulary expansion (US20190080627A1)
+authors: Prasenjit Dey, <b>Utkarsh Dwivedi</b>, Ravi Kokku,  Seema Nagar, Satyanarayana Venkata Nitta
+description: Techniques are provided that facilitate adaptively expanding vocabulary of an entity. 
+img: /assets/img/US20190080627A1-20190314-D00000.png
+importance: 7
+link: https://patents.google.com/patent/DE112018001711T5/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+patentid: US20190080627A1
 ---
 
 Every project has a beautiful feature showcase page.

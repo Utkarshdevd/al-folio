@@ -4,6 +4,7 @@ title: OptiDwell&#58; Intelligent Adjustment of Dwell Click Time
 description: Nayyar A., <b>Dwivedi, U.</b>, Ahuja, K., Rajput, N., Nagar, S. and Dey, K. OptiDwell&#58; Intelligent Adjustment of Dwell Click Time. <i>International Conference on Intelligent User Interfaces (IUI) 2017.</i>
 img: /assets/img/optidwell.png
 importance: 3
+type: Full Paper
 pdf: https://drive.google.com/open?id=0B4aeN-cePkCBaVJPS1lERi1UZ0E
 ---
 

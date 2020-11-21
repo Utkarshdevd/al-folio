@@ -81,6 +81,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  patents:
+    output: true
+    permalink: /patents/:path/
 
 # projects:
 #   output: true

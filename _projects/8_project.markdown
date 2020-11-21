@@ -4,6 +4,7 @@ title: Data Sharing in Wellness, Accessibility, and Aging
 description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., Kamibuko, R. and Chanduka, R. Data Sharing in Wellness, Accessibility, and Aging. <i>NeurIPS 2020 Workshop on Dataset Curation and Security (NeurIPS 2020).</i>
 img: /assets/img/dataset_examples.png
 importance: 2
+type: Poster
 ---
 
 Every project has a beautiful feature showcase page.

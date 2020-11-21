@@ -25,6 +25,9 @@ nav: true
       <div class="col-sm-8">
           <h3 class="card-title">{{ project.title }}</h3>
           <p class="card-text">{{ project.description }}</p>
+          <div class="row abbr ml-1 p-0">
+             <a href="{{ project.pdf }}" class="btn btn-sm z-depth-0 m-0" role="button" target="_blank">{{project.type}} <i class="fas fa-download"></i></a>
+          </div>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">
