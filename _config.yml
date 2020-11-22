@@ -38,8 +38,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Utkarshdevd # your GitHub user name
 twitter_username: "@utkarshdvd" # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username:  dwivedi-utkarsh # your LinkedIn user name
+scholar_userid: s4t91ioAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -84,6 +84,12 @@ collections:
   patents:
     output: true
     permalink: /patents/:path/
+  education:
+    output: true
+    permalink: /education/:path/
+  experience:
+    output: true
+    permalink: /experience/:path/
 
 # projects:
 #   output: true
