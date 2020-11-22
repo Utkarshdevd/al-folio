@@ -2,7 +2,7 @@
 layout: page
 title: Education
 permalink: /education
-description: Patents that I have filed, during my time at IBM Research India.
+description:
 nav: true
 ---
 
