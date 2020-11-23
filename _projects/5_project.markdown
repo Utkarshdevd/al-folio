@@ -5,7 +5,7 @@ description: <b>Dwivedi, U.</b>, Ahuja, K., Islam, R., Bhabhuria F., Nagar, S. a
 img: /assets/img/eyamkayo.png
 importance: 5
 type: Poster
-pdf: https://drive.google.com/open?id=0B4aeN-cePkCBbnpJUFk0bFBNM3c
+pdf: /pdfs/eyamkayo-interactive-gaze.pdf
 ---
 
 Every project has a beautiful feature showcase page.

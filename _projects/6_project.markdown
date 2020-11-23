@@ -5,7 +5,7 @@ description: Nayyar A., <b>Dwivedi, U.</b>, Ahuja, K., Rajput, N., Nagar, S. and
 img: /assets/img/optidwell.png
 importance: 3
 type: Full Paper
-pdf: https://drive.google.com/open?id=0B4aeN-cePkCBaVJPS1lERi1UZ0E
+pdf: /pdfs/optidwell-intelligent-adjustment(3).pdf
 ---
 
 Every project has a beautiful feature showcase page.

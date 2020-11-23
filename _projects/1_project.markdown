@@ -5,7 +5,7 @@ description: Veit, A et al. On optimizing human-machine task assignments. <i>AAA
 img: /assets/img/machinetask.png
 importance: 8
 type: Short Paper
-pdf: https://drive.google.com/open?id=0B4aeN-cePkCBY216SkRJZGYxdmM
+pdf: /pdfs/On_Optimizing_Human-Machine_Task_Assignments.pdf
 ---
 
 Every project has a beautiful feature showcase page.
