@@ -1,24 +1,27 @@
 <div class="news">
-  <h2>news</h2>
+  <h2 class="purples">News</h2>
   {% if site.news  %}
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-      {% assign news = site.news | reverse %}
-      {% for item in news limit: site.news_limit %}
-        <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-          <td>
-            {% if item.inline %}
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-      </table>
-    </div>
-  {% else %}
-    <p>No news so far...</p>
-  {% endif %}
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {% assign news = site.news | reverse %}
+    {% for item in news limit: site.news_limit %}
+      <tr>
+        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <td class="w-25 col-sm-2">
+          <img class="img-fluid mx-auto d-block " src="{{item.img}}" />
+        </td>
+        <td class="p-3">
+          {% if item.inline %}
+          {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+          <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+    </table>
+  </div>
+{% else %}
+  <p>No news so far...</p>
+{% endif %}
 </div>

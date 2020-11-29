@@ -154,10 +154,12 @@ a, table.table a {
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);
+  vertical-align: middle;
 }
 
 .news table th {
   color: var(--global-text-color);
+  vertical-align: middle;
 }
 
 // Social (bottom)
@@ -338,6 +340,9 @@ footer.sticky-bottom {
   max-width: 100%;
   height: auto
 }
+
+.centered { vertical-align:middle; text-align:center; }
+.centered img { display:block; margin:0 auto; }
 
 // Publications
 
