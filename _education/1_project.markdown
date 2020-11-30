@@ -6,6 +6,7 @@ description: GPA&#58; 3.77/4
 img: /assets/img/umd.jpg
 link: https://ischool.umd.edu/
 importance: 1
+alt: Logo of University of Maryland
 ---
 
 Every project has a beautiful feature showcase page.
