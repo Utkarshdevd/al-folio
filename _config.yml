@@ -50,7 +50,7 @@ keybase_username: # your keybase user name
 contact_note: >
   Emails would be the best way to contact me!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-P93BWQVTWE # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -157,7 +157,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
