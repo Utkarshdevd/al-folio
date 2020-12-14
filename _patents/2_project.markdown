@@ -5,7 +5,7 @@ authors: Prasenjit Dey, <b>Utkarsh Dwivedi</b>, Ravi Kokku,  Seema Nagar, Satyan
 description: Techniques are provided that facilitate adaptively expanding vocabulary of an entity. 
 img: /assets/img/US20190080627A1-20190314-D00000.png
 importance: 7
-link: https://patents.google.com/patent/DE112018001711T5/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+link: https://patents.google.com/patent/US20190080627A1/en
 patentid: US20190080627A1
 ---
 

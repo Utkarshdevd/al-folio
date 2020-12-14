@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Product placement optimization using blind-spot analysis in retail environments (US20200226941A1)
+title: Product placement optimization using blind-spot analysis in retail environments (US20200279283A1)
 authors: Roman Vaculin, <b>Utkarsh Dwivedi</b>, Karan Ahuja, Seema Nagar, Kuntal Dey
 description: Techniques are provided for creating presentation notes based upon gaze tracking information associated with observers of a presentation. This patent is filed in US, Japan, United Kingdom, France, Germany and China.
 img: /assets/img/US20200226941A1-20200716-D00007.png
 importance: 8
-link: https://patents.google.com/patent/US20200226941A1/en?inventor=utkarsh+dwivedi%27
-patentid: US20200226941A1
+link: https://patents.google.com/patent/US20200279283A1/en?inventor=Utkarsh+Dwivedi
+patentid: US20200279283A1
 ---
 
 Every project has a beautiful feature showcase page.

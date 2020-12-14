@@ -167,7 +167,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icon {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       color: var(--global-icon-color);
       &:hover {
@@ -177,6 +177,7 @@ a, table.table a {
   }
   .contact-note {
     font-size: 0.8rem;
+    margin-bottom: 0.5rem;
   }
 }
 

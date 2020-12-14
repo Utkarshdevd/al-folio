@@ -5,7 +5,7 @@ authors: Sreekanth L. Kakaraparthy, Vijay A. Kumar, Danish Contractor, Seema Nag
 description: The data processing system monitors student gaze of the digital teaching content during a class and can cognitively skip some of the digital teaching content during the class based on the monitored student gaze and content heuristic(s).
 img: /assets/img/US20200226941A1-20200716-D00003.png
 importance: 8
-link: https://patents.google.com/patent/US20200226941A1/en?inventor=utkarsh+dwivedi%27&assignee=International+Business+Machines+Corporation
+link: https://patents.google.com/patent/US20200226941A1/en?inventor=Utkarsh+Dwivedi
 patentid: US20200226941A1
 ---
 
