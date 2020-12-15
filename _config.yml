@@ -83,12 +83,9 @@ collections:
   patents:
     output: true
     permalink: /patents/:path/
-  education:
+  bio:
     output: true
-    permalink: /education/:path/
-  experience:
-    output: true
-    permalink: /experience/:path/
+    permalink: /bio/:path/
 
 # projects:
 #   output: true
