@@ -6,8 +6,8 @@
     {% assign news = site.news | reverse %}
     {% for item in news limit: site.news_limit %}
       <tr>
-        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-        <td class="w-25 col-sm-2">
+        <th scope="row p-1">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <td class="col-sm-2">
           <img class="img-fluid mx-auto d-block " src="{{item.img}}" />
         </td>
         <td class="p-3">

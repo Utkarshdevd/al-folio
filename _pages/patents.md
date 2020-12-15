@@ -2,6 +2,7 @@
 layout: page
 title: Patents
 permalink: /patents
+order: 2
 description: Patents that I have filed, during my time at IBM Research India.
 nav: true
 ---

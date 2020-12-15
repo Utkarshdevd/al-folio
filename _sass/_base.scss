@@ -150,7 +150,10 @@ a, table.table a {
 
 
 // News
-
+.news {
+  overflow-y:auto;
+  height: 25rem;
+}
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);

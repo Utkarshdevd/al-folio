@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+order: 1
 permalink: /publications
 description: Here are the papers I have published or are under review.
 nav: true
