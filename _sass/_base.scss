@@ -154,6 +154,9 @@ a, table.table a {
   overflow-y:auto;
   height: 25rem;
 }
+.news table {
+  table-layout: fixed;
+}
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);
