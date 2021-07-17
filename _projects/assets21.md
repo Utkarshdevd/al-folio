@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Data Sharing in Wellness, Accessibility, and Aging
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., Kamibuko, R. and Chanduka, R. Data Sharing in Wellness, Accessibility, and Aging. <i>NeurIPS 2020 Workshop on Dataset Curation and Security (NeurIPS 2020).</i>
-img: /assets/img/dataset_examples.png
-importance: 2
-pdf: www.google.com
-type: Poster
+title: Sharing Practices for Datasets Related to Wellness, Accessibility, and Aging
+description: Kamikubo R., <b>Dwivedi, U.</b>, and Kacorri, H. Sharing Practices for Datasets Related to Wellness, Accessibility, and Aging <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '21).</i>
+img: /assets/img/inclusetproject.png
+importance: -1
+type: Full Paper
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: 12.jpg
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">

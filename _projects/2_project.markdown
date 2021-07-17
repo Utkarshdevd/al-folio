@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enabling Compliance of Environmental Conditions
-description: <b>Dwivedi, U.</b> and Dasgupta, A. <i>Enabling Compliance of Environmental Conditions.</i> Computing for Development (ACM DEV) 2015. 
+description: <b>Dwivedi, U.</b> and Dasgupta, A. <i>Enabling Compliance of Environmental Conditions.</i> Computing for Development (ACM DEV '15). 
 img: /assets/img/compliance.png
 pdf: /pdfs/Environmental_Compliance_ACM_DEV_15.pdf
 type: Poster

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Data Sharing in Wellness, Accessibility, and Aging
-description: Kacorri, H., <b>Dwivedi, U.</b>, Amancherla, S., Jha M., Kamibuko, R. and Chanduka, R. Data Sharing in Wellness, Accessibility, and Aging. <i>NeurIPS 2020 Workshop on Dataset Curation and Security (NeurIPS 2020).</i>
-img: /assets/img/dataset_examples.png
-importance: 2
-pdf: www.google.com
-type: Poster
+title: Exploring Machine Teaching with Children
+description: <b>Utkarsh, Dwivedi</b> Jaina Gandhi, Raj Parikh, Merijke Coenraad, Elizabeth Bonsignore and, Hernisa Kacorri. Exploring Machine Teaching with Children. <i>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC '21).</i>
+img: /assets/img/ipaper2.png
+importance: -1
+type: Full Paper
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: 12.jpg
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
