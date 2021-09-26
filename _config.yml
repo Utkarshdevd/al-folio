@@ -66,7 +66,7 @@ pagination:
 
 # Comments
 disqus_shortname: utkarsh # put your disqus shortname
-
+enable_project_categories: false
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -80,6 +80,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
   patents:
     output: true
     permalink: /patents/:path/

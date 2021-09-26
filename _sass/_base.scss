@@ -272,6 +272,10 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+  .card-item {
+    margin-bottom: 10px;
+  }
+  
   .grid-item {
     width: 550px;
     margin-bottom: 10px;
@@ -491,7 +495,6 @@ html.transition *:after {
   transition-delay: 0 !important;
 }
 
-
 .card-title{
   color: $purple-color
 }
@@ -527,3 +530,7 @@ h2.purples{
     width: 100%;
   }
 }
+
+// .row-cols-2{
+//   margin-left: 1em;
+// }
