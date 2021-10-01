@@ -5,6 +5,7 @@ description: Kamikubo R., <b>Dwivedi, U.</b>, and Kacorri, H. Sharing Practices 
 img: /assets/img/inclusetproject.png
 importance: -1
 type: Full Paper
+pdf: https://arxiv.org/abs/2108.10665
 ---
 
 Every project has a beautiful feature showcase page.

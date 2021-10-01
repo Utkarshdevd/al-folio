@@ -2,8 +2,11 @@
 layout: page
 title: Exploring Machine Teaching with Children
 description: IAM Lab @ UMD, Kidsteam @ UMD
-abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers. Children trained image classifiers and tested each other’s models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (e.g. confidence scores) should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (e.g. images vs. gestures).
+abstract: We explored how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers. Using Cooperative Inquiry and observing children's behaviours while they used Google Teachable Machine and a custom Augmented Reality based iOS application, to train a machine learning model. Children trained image classifiers and tested each other’s models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children.
+# papers: [link](google.com)
 time: January 2018 - Current
+authors: Raj Parikh, Jaina Gandhi, Jonggi Hong, Elizabeth Bonsignore, Hernisa Kaccori
+publications: VLHCC '21;vlhcc
 img: /assets/img/mlthroughmt.png
 importance: 1
 category: Current Work

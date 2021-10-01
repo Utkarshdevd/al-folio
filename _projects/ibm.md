@@ -3,7 +3,9 @@ layout: page
 title: Eye-tracking and Edtech research
 description: IBM Research India
 abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers. Children trained image classifiers and tested each other’s models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (e.g. confidence scores) should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (e.g. images vs. gestures).
-time: January 2018 - Current
+time: June 2015 - August 2017
+authors: Nitendra Rajput, Kuntal Dey, Seema Nagar, Prasenjit Dey, Ravi Kokku
+publications: IUI '17;iuifull, IUI '17;eyamkayo, IUI '17;iuiposter, Educational Data Mining '18;eds
 img: /assets/img/ibmprojects.png
 importance: 1
 category: Past Work

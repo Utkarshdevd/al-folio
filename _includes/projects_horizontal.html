@@ -17,8 +17,43 @@
             <div class="card-body">
               <h3 class="card-title">{{ project.title }}</h3>
               <p class="card-text">{{ project.description }}</p>
+              <p class="card-text">{{project.time}}</p>
               <p class="card-text">{{ project.abstract }}</p>
-              <p class="card-text">{{ project.time }}</p>
+              <p class="card-text">Collaborators: 
+                {% assign list = project.authors | split:","%}
+                {% for coauthor in list %}
+                  {% assign names = coauthor | split:" "%}
+                  {% assign firstname = names[0] %}
+                  <span class="">
+                    {% if forloop.last %}
+                      and <a class="authorlink" target="_blank" href="{{site.data.coauthors[firstname].url}}">{{coauthor}}</a>
+                    {% else %}
+                    <a class="authorlink" target="_blank" href="{{site.data.coauthors[firstname].url}}">{{coauthor}}</a>, 
+                    {% endif %}
+                  </span>
+                {% endfor %}
+              </p>
+              <p class="card-text">Publications: 
+                {% assign list = project.publications | split:","%}
+                {% for coauthor in list %}
+                  {% assign links = coauthor | split:";"%}
+                  {% assign name = links[0] %}
+                  {% assign link = links[1] %}
+                  <span class="">
+                    {% if forloop.last %}
+                      {% if list | length == 1 %}
+                        <a class="authorlink" target="_blank" href="{{site.data.publications[link].url}}">{{name}}</a>
+                      {% else %}
+                        and <a class="authorlink" target="_blank" href="{{site.data.publications[link].url}}">{{name}}</a>
+                        {% endif %}
+                    {% else %}
+                    <a class="authorlink" target="_blank" href="{{site.data.publications[link].url}}">{{name}}</a>,
+                    {% endif %}
+                  </span>
+                {% endfor %}
+              </p>
+
+
               <div class="row ml-1 mr-1 p-0">
                 {% if project.github %}
                 <div class="github-icon">
