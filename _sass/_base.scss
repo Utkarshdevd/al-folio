@@ -258,7 +258,6 @@ footer.sticky-bottom {
   }
 }
 
-
 // Distill
 
 .distill {
@@ -266,6 +265,19 @@ footer.sticky-bottom {
     border-bottom-color: var(--global-theme-color);
     text-decoration: none;
   }
+}
+
+.card .card-body .card-text{
+  font-weight: 100;
+}
+.card .card-body h3{
+  font-weight: 100;
+}
+
+.card .card-body .card-text{
+  font-size: 1rem;
+  font-weight: 16px;
+  color: black;
 }
 
 
@@ -507,6 +519,12 @@ h2.purples{
   color: $purple-color;
   font-weight: bold;
 }
+
+.category{
+  color: $purple-color;
+  // font-weight: bold;
+}
+
 
 .patents {
   a.btn {

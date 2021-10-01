@@ -6,7 +6,7 @@ abstract: Iteratively building and testing machine learning models can help chil
 time: January 2018 - Current
 img: /assets/img/mlthroughmt.png
 importance: 1
-category: work
+category: Current Work
 ---
 
 Every project has a beautiful feature showcase page.

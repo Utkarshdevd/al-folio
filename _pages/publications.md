@@ -3,11 +3,11 @@ layout: page
 title: Publications
 order: 1
 permalink: /publications
-description: Here are the papers I have published or are under review.
+description: Research papers resulting from collaborations from my time in undergraduate years at IIT Guwahati, IBM Research India, and now at University of Maryland.
 nav: true
 ---
 
-<div class="newprojects container">
+<div class="newprojects container mt-4">
 
   {% assign sorted_projects = site.publications | sort: "importance" %}
   {% for project in sorted_projects %}

@@ -6,7 +6,7 @@ abstract: Datasets sourced from people with disabilities and older adults play a
 time: April 2018 - Current
 img: /assets/img/datasharingproject.png
 importance: 2
-category: fun
+category: Current Work
 ---
 
 Every project has a beautiful feature showcase page.

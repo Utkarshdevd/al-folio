@@ -3,11 +3,11 @@ layout: page
 title: Patents
 permalink: /patents
 order: 2
-description: Patents that I have filed, during my time at IBM Research India.
+description: Patents resulting from collaborations with researchers in Mobile HCI research group at IBM Research India.
 nav: true
 ---
 
-<div class="patents container">
+<div class="patents container mt-4">
 
   {% assign sorted_patents = site.patents | sort: "importance" %}
   {% for patent in sorted_patents %}

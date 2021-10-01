@@ -2,16 +2,16 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: My projects as a PhD student at University of Maryland
+description: Current and past projects that I have been a part. Click on each project to know more
 nav: true
-display_categories: [work, fun]
+display_categories: [Current Work, Past Work]
 horizontal: true
 ---
-<div class="projects">
+<div class="projects mt-4">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
-      <h2 class="category">{{category}}</h2>
+      <h3 class="category">{{category}}</h3>
       {% assign categorized_projects = site.projects | where: "category", category %}
       {% assign sorted_projects = categorized_projects | sort: "importance" %}
       <!-- Generate cards for each project -->
