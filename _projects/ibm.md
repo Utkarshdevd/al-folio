@@ -2,7 +2,7 @@
 layout: page
 title: Eye-tracking and Edtech research
 description: IBM Research India
-abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers. Children trained image classifiers and tested each other’s models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (e.g. confidence scores) should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (e.g. images vs. gestures).
+abstract: As a part of the Mobile HCI Research team at IBM Research India I worked on creating and evaluating technologies that used eye-tracking data, and text mining techniques. Quantitative evaluations of these techonlogies led to publications in conferences. The major client I developed use cases for was Sesame Street where I developed iOS augmented reality applications and backend technology for vocabulary learning. These projects also yielded 5 patents, one of which was filed in US, EU and Japan, while the rest are filed in US.
 time: June 2015 - August 2017
 authors: Nitendra Rajput, Kuntal Dey, Seema Nagar, Prasenjit Dey, Ravi Kokku
 publications: IUI '17;iuifull, IUI '17;eyamkayo, IUI '17;iuiposter, Educational Data Mining '18;eds
