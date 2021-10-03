@@ -6,6 +6,7 @@ img: /assets/img/compliance.png
 pdf: /pdfs/Environmental_Compliance_ACM_DEV_15.pdf
 type: Poster
 importance: 9
+abstract: Industrial projects in India have to agree to specific sets of environmental conditions in order to function. Lack of compliance with these conditions results both in irreversible damage to the local environment as well as conflicts among the industry and the local community. Our aim is to provide a system that raises general awareness in the local community about the environmental conditions in vogue among the nearby industries so that compliance violations can be reported early on. We outline work in progress to mine the text of the clearance conditions and build a searchable mapping system that can answer various queries about these conditions.
 ---
 
 Every project has a beautiful feature showcase page.

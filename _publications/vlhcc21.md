@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Exploring Machine Teaching with Children
-description: <b>Utkarsh, Dwivedi</b> Jaina Gandhi, Raj Parikh, Merijke Coenraad, Elizabeth Bonsignore and, Hernisa Kacorri. Exploring Machine Teaching with Children. <i>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC '21).</i>
+description: <b>Dwivedi, U.,</b> Gandhi, J., Parikh, R., Coenraad, M., Bonsignore, E., and Kacorri, H. Exploring Machine Teaching with Children. <i>IEEE Symposium on Visual Languages and Human-Centric Computing (VLHCC '21).</i>
 img: /assets/img/ipaper2.png
+abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers.Children trained image classifiers and tested each other's models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (\eg confidence scores should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (\eg images vs. gestures).
 importance: -1
 type: Full Paper
 pdf: https://arxiv.org/abs/2109.11434

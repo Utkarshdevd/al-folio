@@ -6,6 +6,7 @@ img: /assets/img/notecode.png
 pdf: /pdfs/NoteCode_ACM_TEI_15.pdf
 type: Poster
 importance: 3
+abstract: We present the design of Note Code – a music programming puzzle game designed as a tangible device coupled with a Graphical User Interface (GUI). Tapping patterns and placing boxes in proximity enables programming these ‘note-boxes’ to store sets of notes, play them back and activate different subcomponents or neighboring boxes. This system provides users the opportunity to learn a variety of computational concepts, including functions, function calling and recursion, conditionals, as well as engage in composing music. The GUI adds a dimension of viewing the created programs and interacting with a set of puzzles that help discover the various computational concepts in the pursuit of creating target tunes, and optimizing the program made.
 ---
 
 Every project has a beautiful feature showcase page.

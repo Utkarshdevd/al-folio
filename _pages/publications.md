@@ -19,17 +19,29 @@ nav: true
     <a href="{{ project.url | relative_url }}">
     {% endif %} -->
       {% if project.img %}
-      <div class="col-sm-4">
+      <div class="col-sm-3">
           <img class="img-fluid" src="{{ project.img | relative_url }}" alt="project thumbnail">
       </div>
       {% endif %}
-      <div class="col-sm-8">
+      <div class="col-sm-9">
           <h3 class="card-title">{{ project.title }}</h3>
           <p class="card-text">{{ project.description }}</p>
-          <div class="row abbr ml-1 p-0">
-             <a href="{{ project.pdf }}" class="btn btn-sm z-depth-0 m-0" role="button" target="_blank">{{project.type}} <i class="fas fa-download"></i></a>
+          <div class="row abbr ml-1 p-0 pubs">
+           <div class="links">
+                <a href="{{ project.pdf }}" class="btn btn-sm z-depth-0 m-0" role="button" target="_blank">{{project.type}} <i class="fas fa-download"></i></a>
+                {% if project.abstract %}
+                  <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+                {% endif %}
+                </div>
+                {% if project.abstract %}
+                  <div class="abstract hidden">
+                    <p>{{ project.abstract }}</p>
+                  </div>
+                {% endif %}
+
           </div>
-          <div class="row ml-1 mr-1 p-0">
+          <div class="row ml-1 mr-1 p-0 pubs">
+              
             {% if project.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">

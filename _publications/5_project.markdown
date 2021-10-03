@@ -6,6 +6,7 @@ img: /assets/img/eyamkayo.png
 importance: 5
 type: Poster
 pdf: /pdfs/eyamkayo-interactive-gaze.pdf
+abstract: This paper introduces EyamKayo, a first-of-its-kind interactive CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart), using eye gaze and facial expression based human interactions, to better distinguish humans from software robots. Our system generates a sequence of instructions, asking the user to follow a controlled sequence of facial expressions. We evaluate user comfort and system usability, and validate using usability tests.
 ---
 
 Every project has a beautiful feature showcase page.

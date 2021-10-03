@@ -6,6 +6,7 @@ img: /assets/img/machinetask.png
 importance: 8
 type: Short Paper
 pdf: /pdfs/On_Optimizing_Human-Machine_Task_Assignments.pdf
+abstract: When crowdsourcing systems are used in combination with machine inference systems in the real world, they benefit the most when the machine system is deeply integrated with the crowd workers. However, if researchers wish to integrate the crowd with “off-the-shelf” machine classifiers, this deep integration is not always possible. This work explores two strategies to increase accuracy and decrease cost under this setting. First, we show that reordering tasks presented to the human can create a significant accuracy improvement. Further, we show that greedily choosing parameters to maximize machine accuracy is sub-optimal, and joint optimization of the combined system improves performance.
 ---
 
 Every project has a beautiful feature showcase page.

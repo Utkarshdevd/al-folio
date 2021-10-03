@@ -6,6 +6,7 @@ img: /assets/img/visualmath.png
 pdf: /pdfs/visualMath_cameraReady_iui17.pdf
 type: Poster
 importance: 4
+abstract: Math word problems are difficult for students to start with since they involve understanding the problem?s context and abstracting out its underlying mathematical operations. A visual understanding of the problem at hand can be very useful for the comprehension of the problem. We present a system VisualMath that uses machine learning tools and crafted visual logic to automatically generate appropriate visualizations from the text of the word-problems and solve it. We demonstrate the improvements in the understanding of math word-problems by conducting a user study and learning of meaning of relevant new words by students.
 ---
 
 Every project has a beautiful feature showcase page.

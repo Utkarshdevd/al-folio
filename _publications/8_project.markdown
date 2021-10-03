@@ -6,6 +6,7 @@ img: /assets/img/dataset_examples.png
 importance: 2
 pdf: https://www.researchgate.net/publication/348844784_Data_Sharing_in_Wellness_Accessibility_and_Aging
 type: Poster
+abstract: Datasets sourced from people with disabilities and older adults play an important role in innovation, benchmarking, and mitigating bias for both assistive and inclusive AI-infused applications. However, they are scarce. We conduct a systematic review of 137 accessibility datasets manually located across different disciplines over the last 35 years. Our analysis highlights how researchers navigate tensions between benefits and risks in data collection and sharing. We uncover patterns in data collection purpose, terminology, sample size, data types, and data sharing practices across communities of focus. We conclude by critically reflecting on challenges and opportunities related to locating and sharing accessibility datasets calling for technical, legal, and institutional privacy frameworks that are more attuned to concerns from these communities.
 ---
 
 Every project has a beautiful feature showcase page.
