@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 selected_works: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Ph.D. student at the School of Information Studies, Univerisity of Maryland, College Park. As a research assistant at the Intelligent Assistive Machines (IAM) lab under the supervision of [Dr. Hernisa Kacorri](https://scholar.google.com/citations?user=El-R5MEAAAAJ) and [Dr.Elizabeth Bonsignore](https://www.researchgate.net/profile/Elizabeth-Bonsignore), I create accessible technology for teaching machine learning and explainable AI.
+I am a Ph.D. student at the School of Information Studies, Univerisity of Maryland, College Park. As a research assistant at the Intelligent Assistive Machines (IAM) lab under the supervision of [Dr. Hernisa Kacorri](https://scholar.google.com/citations?user=El-R5MEAAAAJ) and [Dr. Elizabeth Bonsignore](https://www.researchgate.net/profile/Elizabeth-Bonsignore), I create accessible technology for teaching machine learning and explainable AI.
 
-Previously I was a game designer and software engineer at StudyPad (Now SplashLearn) in late-Mid 2017, where I designed and developed games for learning math. And before that, I was a Research Scientist at IBM Research Labs, New Delhi, India. Primarily, I worked on the intersection of HCI and ML algorithms, designing and developing machine learning-based technologies for use-cases in childhood learning, in collaboration with Sesame Street.  
+Previously, I was a game designer and software engineer at StudyPad (Now SplashLearn) in 2017, designing and developing games for learning math. And before that, I was a Research Scientist at IBM Research Labs, New Delhi, India. Primarily, I worked on the intersection of HCI and ML algorithms. I designed and developed machine learning-based technologies for eye-tracking and collaborated with Sesame street for early childhood learning use cases.
 
-You can download his <a href="/pdfs/Utkarsh_Dwivedi_CV.pdf" download>CV</a> here.
+You can download his <a href="/pdfs/Utkarsh_Dwivedi_CV_2021.pdf" download>CV</a> here.
