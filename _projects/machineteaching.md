@@ -5,7 +5,7 @@ description: IAM Lab @ UMD, Kidsteam @ UMD
 abstract: We explored how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers. Using Cooperative Inquiry and observing children's behaviours while they used Google Teachable Machine and a custom Augmented Reality based iOS application, to train a machine learning model. Children trained image classifiers and tested each other’s models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children.
 # papers: [link](google.com)
 time: January 2018 - Current
-authors: Raj Parikh, Jaina Gandhi, Jonggi Hong, Elizabeth Bonsignore, Hernisa Kaccori
+authors: Raj Parikh, Jaina Gandhi, Jonggi Hong, Elizabeth Bonsignore, Hernisa Kacorri
 publications: VLHCC '21;vlhcc
 img: /assets/img/mlthroughmt.png
 importance: 1

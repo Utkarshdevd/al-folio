@@ -4,7 +4,7 @@ title: Accessibility Datasets and Sharing Practices
 description: IAM Lab @ UMD
 abstract: We conduct a systematic review of 137 accessibility datasets that sourced from people with disabilities and older adults. We uncovered patterns in data collection purpose, terminology, sample size, data types, and data sharing practices across communities of focus.Metadata about these datasets were made publically available through a full-stack website that I and my collaborators designed and developed.
 time: April 2018 - Current
-authors: Rie Kamikubo, Amnah Mahmoud, Sravya Amancherla, Hernisa Kaccori
+authors: Rie Kamikubo, Amnah Mahmoud, Sravya Amancherla, Hernisa Kacorri
 publications: Assets '21;assets21, Assets '20;assets20, Assets '20;incluset
 img: /assets/img/datasharingproject.png
 importance: 2
