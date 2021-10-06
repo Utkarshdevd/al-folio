@@ -20,7 +20,7 @@ nav: true
     {% endif %} -->
       {% if project.img %}
       <div class="col-sm-3">
-          <img class="img-fluid" src="{{ project.img | relative_url }}" alt="project thumbnail">
+          <img class="img-fluid" src="{{ project.img | relative_url }}" alt="{{project.alttext}}">
       </div>
       {% endif %}
       <div class="col-sm-9">

@@ -7,6 +7,7 @@ importance: -1
 type: Full Paper
 pdf: https://arxiv.org/abs/2108.10665
 abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers.Children trained image classifiers and tested each other's models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (\eg confidence scores should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (\eg images vs. gestures).
+alttext: A drawing showing the different datasets that were collected. Following are the depictions - Eye-tracking for children, typing patterns, hand gesture recognition, fingerspelling detector using images of hands, dysartic speech recognition where an adult is speaking to a mobile app, and sensors on feet of Blind people for tracing their path.
 ---
 
 Every project has a beautiful feature showcase page.

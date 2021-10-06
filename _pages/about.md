@@ -21,4 +21,4 @@ I am a Ph.D. student at the School of Information Studies, Univerisity of Maryla
 
 Previously, I was a game designer and software engineer at StudyPad (Now SplashLearn) in 2017, designing and developing games for learning math. And before that, I was a Research Scientist at IBM Research Labs, New Delhi, India. Primarily, I worked on the intersection of HCI and ML algorithms. I designed and developed machine learning-based technologies for eye-tracking and collaborated with Sesame street for early childhood learning use cases.
 
-You can download his <a href="/pdfs/Utkarsh_Dwivedi_CV_2021.pdf" download>CV</a> here.
+You can download my <a href="/pdfs/Utkarsh_Dwivedi_CV_2021.pdf" download>CV</a> here.
