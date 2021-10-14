@@ -55,7 +55,13 @@
         {{entry.year}}
       {% endif %}
       </div>
+      <div class="periodical purplecolor">
+      {% if entry.award %}
+      <i class="fas fa-trophy"></i> {{entry.award}}
+      {% endif %}
+      </div>
     {% endif %}
+
 
     <div class="links">
     {% if entry.arxiv %}

@@ -368,7 +368,9 @@ footer.sticky-bottom {
 .centered img { display:block; margin:0 auto; }
 
 // Publications
-
+.purplecolor{
+  color: $purple-color
+}
 .publications {
   margin-top: 2rem;
   .more{

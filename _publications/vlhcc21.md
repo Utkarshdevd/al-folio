@@ -7,6 +7,7 @@ abstract: Iteratively building and testing machine learning models can help chil
 importance: -1
 type: Full Paper
 pdf: https://arxiv.org/abs/2109.11434
+award: Best Paper Award, Honorable Mention
 alttext: An image where children are demonstrating their trained models to a class. A child holds an origami while an adult holds the laptop and another adult is taking notes on a whiteboard.
 ---
 
