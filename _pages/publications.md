@@ -24,7 +24,7 @@ nav: true
       </div>
       {% endif %}
       <div class="col-sm-9">
-          <h3 class="card-title">{{ project.title }}</h3>
+          <h4 class="card-title">{{ project.title }}</h4>
           <p class="card-text">{{ project.description }}</p>
           <div class="row abbr ml-1 p-0 pubs">
            <div class="links">

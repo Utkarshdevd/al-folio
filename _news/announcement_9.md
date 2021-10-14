@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-08-27 15:59:00-0400
+date: 2020-11-27 15:59:00-0400
 inline: true
 img: /assets/img/neurips.png
 ---

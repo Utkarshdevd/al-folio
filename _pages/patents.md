@@ -19,8 +19,8 @@ nav: true
       </div>
       {% endif %}
       <div class="col-sm-8">
-          <a href="{{ patent.link }}" target="_blank"><h3 class="card-title">{{ patent.title }}</h3></a>
-          <h5 class="card-text">{{ patent.authors }}</h5>
+          <a href="{{ patent.link }}" target="_blank"><h4 class="card-title">{{ patent.title }}</h4></a>
+          <h6 class="card-text">{{ patent.authors }}</h6>
           <p class="card-text">{{ patent.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             <a href="{{ patent.link }}" class="btn btn-sm z-depth-0 m-0" role="button" target="_blank">{{ patent.patentid }}</a>

@@ -151,8 +151,8 @@ a, table.table a {
 
 // News
 .news {
-  overflow-y:auto;
-  height: 25rem;
+  // overflow-y:auto;
+  // height: 25rem;
 }
 .news table {
   table-layout: fixed;
@@ -270,7 +270,7 @@ footer.sticky-bottom {
 .card .card-body .card-text{
   font-weight: 100;
 }
-.card .card-body h3{
+.card .card-body h4{
   font-weight: 100;
 }
 
@@ -561,7 +561,7 @@ html.transition *:after {
   color: $purple-color
 }
 
-h2.purples{
+h4.purples{
   color: $purple-color;
 }
 

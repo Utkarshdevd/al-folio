@@ -4,7 +4,7 @@
     {% else %}
     <a href="{{ project.url | relative_url }}">
     {% endif %} -->
-      <div class="card hoverable">
+      <div class="card">
         <div class="row ">
           {% if project.img %}
           <div class="card-img col-md-4  d-flex flex-wrap align-items-center">
@@ -15,7 +15,7 @@
           <div class="col-md-12">
           {% endif %}
             <div class="card-body">
-              <h3 class="card-title">{{ project.title }}</h3>
+              <h4 class="card-title">{{ project.title }}</h4>
               <p class="card-text">{{ project.description }}</p>
               <p class="card-text">{{project.time}}</p>
               <p class="card-text">{{ project.abstract }}</p>
