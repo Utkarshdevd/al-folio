@@ -2,7 +2,7 @@
 layout: page
 title: SplashLearn (StudyPad Inc.)
 position: Game Designer and Sofware Engineer, Sept 17 - Jul 18
-description: I lead a team of designers and subject matter experts that design games for learning math. We design and develop for student in Grade 1 to 5, for topics strongly aligned to Common Core standards. We are also exploring ways to sequence our existing worksheet products to adapt for different learning styles.
+description: I led a team of designers and subject matter experts that design games for learning math. We design and develop for student in Grade 1 to 5, for topics strongly aligned to Common Core standards. We are also exploring ways to sequence our existing worksheet products to adapt for different learning styles.
 img: /assets/img/splash.png
 link: https://www.splashlearn.com/
 importance: 2
