@@ -57,7 +57,10 @@
       </div>
       <div class="periodical purplecolor">
       {% if entry.award %}
-      <i class="fas fa-trophy"></i> {{entry.award}}
+      <i class="fas fa-medal"></i> {{entry.award}}
+      {% endif %}
+      {% if entry.bestpaper %}
+      <i class="fas fa-trophy"></i> {{entry.bestpaper}}
       {% endif %}
       </div>
     {% endif %}

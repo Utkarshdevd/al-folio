@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Sharing Practices for Datasets Related to Wellness, Accessibility, and Aging
-description: Kamikubo R., <b>Dwivedi, U.</b>, and Kacorri, H. Sharing Practices for Datasets Related to Wellness, Accessibility, and Aging <i>International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '21).</i>
-img: /assets/img/inclusetproject.png
-importance: 1
+title: Exploring AI Problem Formulation with Children via Teachable Machines
+description: <b>Dwivedi, U.,</b> Elsayed-Ali, S, Bonsignore, E., and Kacorri, H. Exploring AI Problem Formulation with Children via Teachable Machines. <i>ACM Conference on Human Factors in Computing Systems (CHI '24).</i>
+img: /assets/img/storyboarding-singlecol.png
+abstract: Emphasizing problem formulation in AI literacy activities with children is vital, yet we lack empirical studies on their structure and affordances. We propose that participatory design involving teachable machines facilitates problem formulation activities. To test this, we integrated problem reduction heuristics into storyboarding and invited a university-based intergenerational design team of 10 children (ages 8-13) and 9 adults to co-design a teachable machine. We find that children draw from personal experiences when formulating AI problems; they assume voice and video capabilities, explore diverse machine learning approaches, and plan for error handling. Their ideas promote human involvement in AI, though some are drawn to more autonomous systems. Their designs prioritize values like capability, logic, helpfulness, responsibility, and obedience, and a preference for a comfortable life, family security, inner harmony, and excitement as end-states. We conclude by discussing how these results can inform the design of future participatory AI activities.
+importance: -1
 type: Full Paper
-pdf: https://arxiv.org/abs/2108.10665
-abstract: Iteratively building and testing machine learning models can help children develop creativity, flexibility, and comfort with machine learning and artificial intelligence. We explore how children use machine teaching interfaces with a team of 14 children (aged 7-13 years) and adult co-designers.Children trained image classifiers and tested each other's models for robustness. Our study illuminates how children reason about ML concepts, offering these insights for designing machine teaching experiences for children - (i) ML metrics (\eg confidence scores should be visible for experimentation; (ii) ML activities should enable children to exchange models for promoting reflection and pattern recognition; and (iii) the interface should allow quick data inspection (\eg images vs. gestures).
-alttext: A drawing showing the different datasets that were collected. Following are the depictions - Eye-tracking for children, typing patterns, hand gesture recognition, fingerspelling detector using images of hands, dysartic speech recognition where an adult is speaking to a mobile app, and sensors on feet of Blind people for tracing their path.
+pdf: https://arxiv.org/abs/2402.18688
+award: Best Paper Award, Honorable Mention
+alttext: An image where two children and two adults are sitting on the floor discussing their AI ideas.
 ---
 
 Every project has a beautiful feature showcase page.

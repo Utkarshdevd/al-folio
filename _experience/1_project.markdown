@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Intelligent Assistive Machines (IAM) Lab
-position: Ph.D Student, School of Information Studies, Aug 18 - current
-description: Started my sixth year of Ph.D in 2023, advised by Dr. Hernisa Kacorri. My interests are in explainable AI and accessibility.
+position: Ph.D Student, School of Information Studies, Aug 18 - Now
+description: Started my final year of Ph.D in 2024, advised by Dr. Hernisa Kacorri. My interests are in explainable AI and accessibility.
 img: /assets/img/iamlogo.png
 link: https://iam.umd.edu/
 importance: 1

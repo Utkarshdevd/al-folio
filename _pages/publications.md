@@ -3,7 +3,7 @@ layout: page
 title: Publications
 order: 1
 permalink: /publications
-description: Research papers resulting from collaborations from my time in undergraduate years at IIT Guwahati, IBM Research India, and now at University of Maryland.
+description: Research papers resulting from collaborations from my time at IIT Guwahati, IBM Research India, and now at University of Maryland.
 nav: true
 ---
 
@@ -27,7 +27,10 @@ nav: true
           <h4 class="card-title">{{ project.title }}</h4>
           <p class="card-text">{{ project.description }}</p>
           {% if project.award %}
-            <p class="purplecolor"> <i class="fas fa-trophy"></i> {{ project.award }}</p>
+            <p class="purplecolor"> <i class="fas fa-medal"></i> {{ project.award }}</p>
+          {% endif %}
+          {% if project.bestpaper %}
+            <p class="purplecolor"> <i class="fas fa-trophy"></i> {{ project.bestpaper }}</p>
           {% endif %}
           <div class="row abbr ml-1 p-0 pubs">
            <div class="links">

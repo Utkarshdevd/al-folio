@@ -9,10 +9,10 @@ nav: true
 
 <div>
 <p>
-Utkarsh Dwivedi is a 5th year PhD Candidate in the Information Studies PhD program at University of Maryland, College Park (UMD). He obtained his Bachelors in Design in 2015 from the Indian Institute of Technology (IIT) at Guwahati. His current research focuses on Human-Centered Artificial Intelligence, Participatory Machine Learning, and Accessibility. He is a Research Assistant at the <a href="https://iam.umd.edu/" target="_blank">Intelligent Assistive Machines (IAM) lab</a> at UMD led by <a href="https://scholar.google.com/citations?user=El-R5MEAAAAJ" target="_blank">Dr. Hernisa Kacorri</a> and <a href="https://www.researchgate.net/profile/Elizabeth-Bonsignore" target="_blank">Dr. Elizabeth Bonsignore</a>, the Director of <a href="https://hcil.umd.edu/children-as-design-partners/" target="_blank">KidsTeam</a> at UMD.
+Utkarsh Dwivedi is a final year PhD Candidate in the Information Studies PhD program at University of Maryland, College Park (UMD). He obtained his Bachelors in Design in 2015 from the Indian Institute of Technology (IIT) at Guwahati. His current research focuses on Human-Centered Artificial Intelligence, Participatory Machine Learning, and Accessibility and has won awards at IEEE VL/HCC and at the flagship HCI conference, ACM CHI. He is a Research Assistant at the <a href="https://iam.umd.edu/" target="_blank">Intelligent Assistive Machines (IAM) lab</a> at UMD led by <a href="https://scholar.google.com/citations?user=El-R5MEAAAAJ" target="_blank">Dr. Hernisa Kacorri</a> and <a href="https://www.researchgate.net/profile/Elizabeth-Bonsignore" target="_blank">Dr. Elizabeth Bonsignore</a>, the Director of <a href="https://hcil.umd.edu/children-as-design-partners/" target="_blank">KidsTeam</a> at UMD.
 </p>
 
-<p>Here is his <a href="https://drive.google.com/file/d/1G6CyHno5SeCfAcZXz62bn3Q6JT71e-Ns/view?usp=sharing" target="_blank">CV</a>.</p>
+<p>Here is his <a href="https://drive.google.com/file/d/1yC8wRQW56HePHoc5EIuDOL4OJTbW7tTa/view?usp=sharing" target="_blank">CV</a>.</p>
 
 <h4 class="post-title">Experience</h4>
 <div class="newprojects container">

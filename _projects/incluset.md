@@ -8,7 +8,7 @@ authors: Rie Kamikubo, Amnah Mahmoud, Sravya Amancherla, Hernisa Kacorri
 publications: Assets '21;assets21, Assets '20;assets20, Assets '20;incluset
 img: /assets/img/datasharingproject.png
 importance: 2
-category: Current Work
+category: Past Work
 ---
 
 Every project has a beautiful feature showcase page.
