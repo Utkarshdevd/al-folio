@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Maryland (UMD), College Park
-position: Ph.D Student, School of Information Studies, Aug 18 - current
+position: Ph.D Student, College of Information, Aug 18 - current
 description: GPA&#58; 3.77/4
 img: /assets/img/umd.jpg
 link: https://ischool.umd.edu/
