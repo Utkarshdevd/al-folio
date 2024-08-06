@@ -21,4 +21,4 @@ I am a final year Ph.D. Candidate at the College of Information, University of M
 
 Before the Ph.D. program, I was a game designer and software engineer at StudyPad (Now [SplashLearn](https://www.splashlearn.com/)) in 2017, designing and developing games for learning math. Before that, I was a researcher at the Education Business Unit at [IBM Research Labs](https://research.ibm.com/labs/india/), New Delhi, India. At IBM, I designed and developed AI-infused systems leveraging eye-tracking, and I had the opportunity to collaborate with [Sesame Street](https://www.forbes.com/sites/ibm/2016/04/27/how-sesame-street-and-ibm-watson-can-help-re-revolutionize-preschool-learning/?sh=43eac1ba27a2). 
 
-Here is my <a href="https://drive.google.com/file/d/1aHwnQeBTsYSZQjqzq8SV7N06c_nXGbQ4/view?usp=sharing" target="_blank">CV</a>.
+Here is my <a href="https://drive.google.com/file/d/1roiUiymqUIBGGctfGNlrRd3dPu-0OM-V/view?usp=sharing" target="_blank">CV</a>.
